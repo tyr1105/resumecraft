@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📋 ResumeCraft - 免费在线简历制作工具
 
-## Getting Started
+<h3 align="center">多套精美模板 · 实时预览 · PDF导出</h3>
 
-First, run the development server:
+<p align="center">
+  <a href="https://tyr1105.github.io/resumecraft/">
+    <img src="https://img.shields.io/badge/在线使用-Live_Demo-orange?style=for-the-badge" alt="Live Demo">
+  </a>
+  <img src="https://img.shields.io/badge/价格-免费-green?style=for-the-badge" alt="Free">
+  <img src="https://img.shields.io/badge/无需注册-blue?style=for-the-badge" alt="No Signup">
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ 功能特色
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 📝 **多套模板** — 简约/商务/创意等风格
+- 👁️ **实时预览** — 编辑即见效果
+- 📄 **PDF导出** — 一键导出高清PDF
+- 🔒 **隐私安全** — 纯浏览器处理，数据不上传
+- 🚫 **无需注册** — 打开即用
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 立即使用
 
-## Learn More
+👉 https://tyr1105.github.io/resumecraft/
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ 技术栈
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Next.js · React · TypeScript · Tailwind CSS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p align="center">Made with ❤️ by <a href="https://github.com/tyr1105">tyr1105</a></p>
