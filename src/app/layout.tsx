@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { ToolNetworkFooter } from "@/components/ToolNetworkFooter";
 
 export const metadata: Metadata = {
   title: "ResumeCraft - 免费在线简历制作 | 一键导出PDF",
@@ -21,7 +22,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="zh-CN">
-      <body className="antialiased">{children}</body>
+      <body className="antialiased" style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}>
+        <div style={{ flex: 1 }}>{children}</div>
+        <ToolNetworkFooter />
+      </body>
     </html>
   );
 }
